@@ -22,7 +22,7 @@ You need Python 3.9 or newer.
 1. Check your version: `py --version` (Windows) or `python3 --version` (macOS and Linux).
 2. Clone the repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/support-request-system.git
+   git clone https://github.com/pauladedayo2000/support-request-system.git
    cd support-request-system
    ```
 
@@ -139,3 +139,4 @@ n is the number of requests and m is the number of replies.
 - Add validation for emails and empty fields.
 - Add a web or GUI front end.
 - Add a multi-level undo and redo.
+Fix clone URL in README
