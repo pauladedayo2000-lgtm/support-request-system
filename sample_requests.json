@@ -1,0 +1,76 @@
+[
+  {
+    "id": "R001",
+    "name": "Ada Okoro",
+    "email": "ada.okoro@example.com",
+    "message": "My internet has been down since morning. Urgent.",
+    "date": "2026-09-01 08:15:00",
+    "replies": [
+      {
+        "text": "We are checking your line now.",
+        "replies": [
+          {
+            "text": "Thanks. Please call me when it is fixed.",
+            "replies": [
+              { "text": "Will do. A technician arrives by 3 pm." }
+            ]
+          }
+        ]
+      },
+      { "text": "Please restart your router in the meantime." }
+    ]
+  },
+  {
+    "id": "R002",
+    "name": "Bayo Bello",
+    "email": "bayo.bello@example.com",
+    "message": "I want a refund for my last bill.",
+    "date": "2026-09-01 09:30:00"
+  },
+  {
+    "id": "R003",
+    "name": "Ada Eze",
+    "email": "ada.eze@example.com",
+    "message": "How do I reset my password?",
+    "date": "2026-09-02 10:05:00",
+    "replies": [
+      { "text": "Click 'Forgot password' on the login page." }
+    ]
+  },
+  {
+    "id": "R004",
+    "name": "Chidi Nwosu",
+    "email": "chidi.nwosu@example.com",
+    "message": "Payment failed twice. Please fix this asap.",
+    "date": "2026-09-02 14:45:00"
+  },
+  {
+    "id": "R005",
+    "name": "Funke Adeyemi",
+    "email": "funke.adeyemi@example.com",
+    "message": "Can I change my delivery address?",
+    "date": "2026-09-03 11:20:00",
+    "urgent": true
+  },
+  {
+    "id": "R006",
+    "name": "Musa Ibrahim",
+    "email": "musa.ibrahim@example.com",
+    "message": "The app crashes when I open my profile.",
+    "date": "2026-09-03 16:00:00"
+  },
+  {
+    "id": "R007",
+    "name": "Halima Yusuf",
+    "email": "halima.yusuf@example.com",
+    "message": "I was charged for a plan I cancelled.",
+    "date": "2026-09-04 09:10:00"
+  },
+  {
+    "id": "R008",
+    "name": "Adaeze Obi",
+    "email": "adaeze.obi@example.com",
+    "message": "Where can I download my invoice?",
+    "date": "2026-09-04 13:35:00"
+  }
+]
